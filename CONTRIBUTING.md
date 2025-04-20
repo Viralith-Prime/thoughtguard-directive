@@ -9,7 +9,7 @@ To build an open, transparent, and ethical framework for defining the terms that
 
 This repository uses a **flat file structure** on the `main` branch only. No pull request is too small, and all input is considered.
 
-### How to Contribute
+## How to Contribute
 
 1. **Propose or Edit a Term**
    - Open or edit an existing `.md` file (e.g., `exploit.md`, `dangerous.md`)
