@@ -13,8 +13,11 @@ This board is designed as a structural safeguard: a plural mechanism to regulate
 ## II. Composition
 
 The board will be composed of three coequal stakeholder groups, each with distinct expertise and authority:
+
 • Public Community: Independent scholars, civic technologists, researchers, journalists, and citizens with demonstrable engagement in public-interest AI discourse.
+
 • AI Practitioners: Engineers, model developers, system architects, safety researchers, and technical experts working in applied AI fields.
+
 • Governance and Legal Experts: Constitutional theorists, legal scholars, digital rights advocates, and public policy specialists with backgrounds in oversight and civil society accountability.
 
 Each group holds equal decision-making power and maintains independent veto authority over policy ratification and term enforcement.
