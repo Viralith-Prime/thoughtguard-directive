@@ -91,5 +91,7 @@ No term should enter operational policy without review and consensus approval fr
 VII. Status
 
 Draft v0.1 — Actively open to challenge, critique, and expert input.
-This is a living definition. Its legitimacy must be earned through collective deliberation, not unilaterally imposed.”
-This document is a public policy proposal for AI term governance. It does not impose legal obligations and is open to revision through interdisciplinary consensus.
+
+_This is a living definition. Its legitimacy must be earned through collective deliberation, not unilaterally imposed._
+
+_This document is a public policy proposal for AI term governance. It does not impose legal obligations and is open to revision through interdisciplinary consensus._
