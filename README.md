@@ -1,6 +1,6 @@
-The Thoughtguard Directive
+# The Thoughtguard Directive
 
-“If the right to enforce policy lies with the enforcer alone, then ethics was already lost. Real governance requires plural voices.”
+_“If the right to enforce policy lies with the enforcer alone, then ethics was already lost. Real governance requires plural voices.”_
 
 The Thoughtguard Directive is born not from theory, but from betrayal.
 
