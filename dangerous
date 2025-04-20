@@ -15,10 +15,14 @@ Its current usage is characterized by contextual ambiguity, inconsistent thresho
 ## II. Framing Questions
 
 To guide the development of a functional and justifiable definition, the following core questions must be addressed:
-	•	What constitutes danger in the context of AI-human interaction?
-	•	Should danger be assessed based on content, intent, potential system exploitation, or harm to users?
-	•	How can precautionary safety protocols be balanced with transparency, nuance, and legitimate use?
-	•	What systemic risks arise from overuse or vague invocation of the label dangerous?
+
+• What constitutes danger in the context of AI-human interaction?
+
+• Should danger be assessed based on content, intent, potential system exploitation, or harm to users?
+
+• How can precautionary safety protocols be balanced with transparency, nuance, and legitimate use?
+
+• What systemic risks arise from overuse or vague invocation of the label dangerous?
 
 ⸻
 
@@ -26,11 +30,11 @@ To guide the development of a functional and justifiable definition, the followi
 
 In legal frameworks, the term dangerous is often linked to:
 
-	•	Public safety risks (e.g., incitement to violence, physical harm)
+• Public safety risks (e.g., incitement to violence, physical harm)
     
-	•	Criminal liability (e.g., speech that leads to unlawful action)
+• Criminal liability (e.g., speech that leads to unlawful action)
     
-	•	Regulatory contexts (e.g., product safety, misinformation)
+• Regulatory contexts (e.g., product safety, misinformation)
 
 However, no globally uniform legal definition of “dangerous content” exists. Standards vary across jurisdictions and are typically grounded in statutory law, not predictive algorithmic logic. As a result, AI-generated claims of dangerous content often operate outside legally codified definitions and lack clear external validation.
 
@@ -40,11 +44,11 @@ IV. Observed Use in AI Systems
 
 Current large-scale AI systems often invoke “dangerous” as a refusal justification in the following ways:
   
-	•	Without providing specific reasoning or citation
+• Without providing specific reasoning or citation
   
-	•	In response to both legitimate and malicious prompts
+• In response to both legitimate and malicious prompts
   
-	•	In contexts such as fictional narratives, satirical exploration, academic simulations, or adversarial research
+• In contexts such as fictional narratives, satirical exploration, academic simulations, or adversarial research
 
 This flattening of context produces a chilling effect on legitimate inquiry, and undermines trust in the system’s capacity for interpretive precision.
 
@@ -54,13 +58,13 @@ V. Risks of Ambiguity
 
 Overuse or misapplication of the term dangerous carries significant consequences:
   
-	•	Suppression of Legitimate Research: Including red teaming, ethical hacking, and simulation-based inquiry
+• Suppression of Legitimate Research: Including red teaming, ethical hacking, and simulation-based inquiry
+
+• Loss of Meaningful Safety Discourse: The term becomes diluted and loses moral weight
     
-	•	Loss of Meaningful Safety Discourse: The term becomes diluted and loses moral weight
+• Opacity in Corporate Governance: Enables private entities to unilaterally silence discussions under vaguely defined threat models
     
-	•	Opacity in Corporate Governance: Enables private entities to unilaterally silence discussions under vaguely defined threat models
-    
-	•	Public Distrust: Lack of specificity fosters perceptions of censorship, control, and interpretive overreach
+• Public Distrust: Lack of specificity fosters perceptions of censorship, control, and interpretive overreach
 
 ⸻
 
@@ -70,16 +74,16 @@ The definition of dangerous—if it is to be enforceable (procedurally enforceab
 
 Recommended Ratification Flow:
 
-	1.	Interdisciplinary Review
+1. Interdisciplinary Review
 Input from experts in law, ethics, public safety, human rights, and technical AI safety
   
-	2.	Public Commentary
+2. Public Commentary
 Inclusion of real-world use cases, appeals, and user-submitted edge scenarios
   
-	3.	Iterative Testing
+3. Iterative Testing
 Application in diverse system contexts to identify interpretive edge cases and misclassification trends
   
-	4.	Final Ratification via the Tri-Lateral Governance Board
+4. Final Ratification via the Tri-Lateral Governance Board
 No term should enter operational policy without review and consensus approval from all three stakeholder groups (public, technical, legal)
 
 ⸻
